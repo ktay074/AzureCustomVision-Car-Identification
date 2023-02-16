@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+form {
+    margin-top: 5%;
+}
+
+button {
+    margin-left: 5%;
+}

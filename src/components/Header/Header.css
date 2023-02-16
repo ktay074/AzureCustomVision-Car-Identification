@@ -1,0 +1,25 @@
+
+.TurnersLogo {
+    /* background-color: aquamarine; */
+    margin-left: 5%;
+    padding-top: 3%;
+    text-align: left;
+    
+}
+
+.BlueMenu {
+    background-color: rgb(30, 91, 221);
+    flex: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    position: sticky;    
+}
+
+.NavButtons {
+    margin: 5%;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+    cursor: pointer;
+}
